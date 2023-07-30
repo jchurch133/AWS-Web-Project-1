@@ -1,5 +1,15 @@
 {
+  "name": "aws-web-project-1",
+  "description": "A guide and showcase to building a simple web project on AWS. I'll be using Kubuntu Linux, AWS CLI, Python Boto3 SDK to deploy it with the support of chatGPT and AWS whitepaper docunmentations.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Churchill",
+  "license": "ISC",
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "prettier": "3.0.0"
   }
 }
